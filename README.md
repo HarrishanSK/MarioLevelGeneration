@@ -25,3 +25,4 @@ This was a group project for the module 'Artificial Intelligence in Games'.
 <img src="https://github.com/HarrishanSK/MarioLevelGeneration/blob/master/images/page14.png">
 <img src="https://github.com/HarrishanSK/MarioLevelGeneration/blob/master/images/page15.png">
 <img src="https://github.com/HarrishanSK/MarioLevelGeneration/blob/master/images/page16.png">
+ 
