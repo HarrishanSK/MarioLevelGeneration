@@ -1,11 +1,13 @@
 # Level Generation for Super Mario Bro's using PCG
 
-<img src="https://github.com/HarrishanSK/MarioLevelGeneration/blob/master/images/image1.png">
-
 The goal of this project was to implement Procedural Content Generation to continously generate new levels for the computer game known as Super Mario Bro's.
 We managed to acheive this by extracting features from existing human made levels and using it to create new ones of varying difficulty. 
 A method known as chunking was followed to create our levels and is described in the report.
 
+<img src="https://github.com/HarrishanSK/MarioLevelGeneration/blob/master/images/image1.png">
+
+The code for the level generators implemented can be found in the './levelGenerators' directory.
+The research paper style report for this project can be found at /.report.pdf'
 This was a group project for the module 'Artificial Intelligence in Games'.
 
 # Report
